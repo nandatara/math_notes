@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 200 200">
+  <!-- Generator: Adobe Illustrator 30.4.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 226)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #f6f6f6;
+        fill-rule: evenodd;
+        stroke: #bfbfbf;
+      }
+
+      .st1, .st2, .st3, .st4 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st1, .st2, .st3, .st5 {
+        fill: #333;
+      }
+
+      .st1, .st2, .st5 {
+        font-size: 12px;
+      }
+
+      .st6 {
+        fill: #eaeaea;
+        stroke: #c9c9c9;
+      }
+
+      .st2, .st7, .st5 {
+        isolation: isolate;
+      }
+
+      .st3 {
+        font-size: 16px;
+      }
+
+      .st8 {
+        font-family: ArialUnicodeMS, 'Arial Unicode MS';
+      }
+    </style>
+  </defs>
+  <rect class="st6" x=".5" y=".5" width="199" height="199" rx="9" ry="9"/>
+  <path class="st0" d="M131.5,50.5c13.53,0,25.78,5.54,34.65,14.5,8.87,8.96,14.35,21.33,14.35,35s-5.48,26.05-14.35,35c-8.87,8.96-21.12,14.5-34.65,14.5-11.84,0-22.71-4.25-31.18-11.31-9.11,7.07-19.98,11.31-31.82,11.31-13.53,0-25.78-5.54-34.65-14.5-8.87-8.96-14.35-21.33-14.35-35s5.48-26.05,14.35-35c8.87-8.96,21.12-14.5,34.65-14.5,11.85,0,22.71,4.25,31.18,11.31,9.11-7.07,19.97-11.31,31.82-11.31Z"/>
+  <path class="st0" d="M99.87,62.19c10.83,8.97,17.63,22.59,17.63,37.81s-6.8,28.84-17.5,37.92c-10.7-9.08-17.5-22.7-17.5-37.92s6.75-28.73,17.37-37.81Z"/>
+  <g class="st7">
+    <text class="st2" transform="translate(58 102)"><tspan x="0" y="0">A</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st2" transform="translate(132 102)"><tspan x="0" y="0">B</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st2" transform="translate(177 26)"><tspan x="0" y="0">U</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st5" transform="translate(61 182)"><tspan class="st4" x="0" y="0">(A </tspan><tspan class="st8" x="15.33" y="0">∪</tspan><tspan class="st4" x="22.07" y="0" xml:space="preserve"> B)</tspan></text>
+    <text class="st3" transform="translate(98.4 176.67) scale(.58)"><tspan x="0" y="0">c</tspan></text>
+    <text class="st1" transform="translate(103.06 182)"><tspan x="0" y="0" xml:space="preserve"> = A</tspan></text>
+    <text class="st3" transform="translate(124.74 176.67) scale(.58)"><tspan x="0" y="0">c</tspan></text>
+    <text class="st1" transform="translate(129.41 182)"><tspan x="0" y="0" xml:space="preserve"> ∩ B</tspan></text>
+    <text class="st3" transform="translate(152.71 176.67) scale(.58)"><tspan x="0" y="0">c</tspan></text>
+  </g>
+</svg>
